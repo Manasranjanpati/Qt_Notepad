@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>icons8-bookmark-48.png</file>
+        <file>icons8-connect-48.png</file>
+        <file>icons8-delete-48.png</file>
+        <file>icons8-document-48.png</file>
+        <file>icons8-edit-48.png</file>
+        <file>icons8-file-48.png</file>
+        <file>icons8-image-file-48.png</file>
+        <file>icons8-plus-48.png</file>
+        <file>icons8-refresh-48.png</file>
+        <file>icons8-remove-48.png</file>
+        <file>icons8-trash-48.png</file>
+        <file>shadowsocksqt5_94122.png</file>
+    </qresource>
+</RCC>
